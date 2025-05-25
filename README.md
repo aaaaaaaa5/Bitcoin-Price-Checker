@@ -16,3 +16,12 @@ A simple Python script to fetch and display the current price of Bitcoin (BTC) i
    ```bash
    git clone https://github.com/yourusername/bitcoin-price-checker.git
    cd bitcoin-price-checker
+   ```
+2. Install the required dependency:
+   ```bash
+   pip install requests
+   ```
+3. Run the script:
+   ```bash
+   python bitcoin_price_checker.py
+# → The price of Bitcoin: 68219 USD
